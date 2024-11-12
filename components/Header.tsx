@@ -86,7 +86,7 @@ export default function Header(props: HeaderProps) {
           )
           : (
             <a href="/signin" class="link-styles nav-item">
-              Sign in
+              AMORLUNA!!
             </a>
           )}
         <div class="rounded-lg bg-gradient-to-tr from-secondary to-primary p-px">
